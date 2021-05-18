@@ -1,5 +1,5 @@
 # About:
 
-I am learning web development and one of my tactics is to make components as I learn.  I can use them for later and also share them here.  I focus on responsive design and simplicity.
+Hey, I'm Jared.  I am building these front end templates as I teach myself web development, JAMstack and blockchain tech.  My first ones are Bootstrap, since I am really liking that framework.  AFter some research, I am going to start into Vue JS next.
 
-I hope you put them to good use!
+I hope my stuff helps!
